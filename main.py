@@ -2,7 +2,7 @@
 #from datetime import datetime
 from typing import Union
 from fastapi import FastAPI
-from modelo import item
+from models.item_model import item
 #from models import Customer, Transaction, Invoice
 
 
